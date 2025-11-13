@@ -10,7 +10,7 @@
 
 ## 📸 Screenshot
 
-![Akademi Kripdick](./assets/akademi-kripdick.png)  
+![Akademi Kripdick](./assets/akademi_porto.jpg)  
 *Halaman utama Akademi Kripdick*
 
 ---
