@@ -6,6 +6,8 @@
 
 **Akademi Kripdick** adalah website edukasi yang berisi informasi dan pembelajaran mengenai **kripto**. Website ini dibuat menggunakan **Next.js** dengan tujuan memberikan sumber belajar yang mudah diakses dan interaktif bagi pemula maupun profesional.
 
+link demo website : https://akademi-crypd-2eqdkf4f4-haicalravindas-projects.vercel.app/
+
 ---
 
 ## 📸 Screenshot
